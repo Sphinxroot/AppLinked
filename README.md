@@ -7,3 +7,6 @@ Applinked is a website / application in which you in your own right can add link
 
 
 https://applinked.store/store.php
+
+
+for .zip file use downloader / browser at the same url .
